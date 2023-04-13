@@ -1,53 +1,36 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 12/25/2017
+tags: woodworking, cnc
+description: I made these C Clamp Holder Racks for my Dad as a Christmas present.
+slug: c-clamp-rack
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# C Clamp Rack
+
+I made these C Clamp Holder Racks for my Dad as a Christmas present.
 
 ## Table of Contents
-- [Title](#title)
+
+- [C Clamp Rack](#c-clamp-rack)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
   - [Notes](#notes)
-  - [Sources](#sources)
+  - [Technologies](#technologies)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+I made these C Clamp Holder Racks for my Dad as a Christmas present.
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+I used Fusion 360 to create a model with slots that would allow the top portion of the clamp to be easily placed and securely indexed to prevent them from falling off. I then used my CNC to mill the parts out of some scrap cherry I had leftover from another project. Mounting holes were drilled and a wider diameter hole was added to hide the screw heads.
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+A 45-degree chamfer was cut off the bottom edge on the front to provide clearance for the smaller clamps on the left-hand rack and create a more finished look overall. Finished with two coats of brush on poly, sanding between coats with 400 grit.
 
 ## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+This design has since been updated to allow easier construciton using 3/4 inch plywood.
+
+## Technologies
+
+- Fusion 360
